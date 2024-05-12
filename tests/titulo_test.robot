@@ -1,9 +1,10 @@
 *** Settings ***
-Resource        base_test.robot
+Resource            ../resources/base.resource
 
-Test Setup      Iniciar Sessão
-Test Teardown   Encerrar Sessão
+Test Setup          Iniciar sessão
+Test Teardown       Encerrar sessão
+
 
 *** Test Cases ***
 Validar o título da página
-    Title Should Be     Training Wheels Protocol
+    Title Should Be    Training Wheels Protocol
