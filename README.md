@@ -2,7 +2,7 @@
 # Projeto de Testes Funcionais Automatizados Web | Robot Framework | SeleniumLibrary | Python :test_tube:
 ---
 # :information_source: Introdução
-Esse projeto "testes-automatizados-web-training-wheels-protocol_robot-framework-selenium-library" é executado em um ambiente de desenvolvimento local no site "Training Wheels Protocol", nos navegadores Chrome e Firefox e Sistema Operacional Windows, desenvolvido para o curso "Robot Beginner com Selenium Webdriver" da "QANinja Academy" e com o objetivo de me aprofundar um pouco mais nos estudos sobre testes automatizados web em Robot Framework, SeleniumLibrary e Python.
+Esse projeto "testes-automatizados-web-training-wheels-protocol_robot-framework-selenium-library" é executado em um ambiente de desenvolvimento local no site "Training Wheels Protocol", nos navegadores Chrome e Firefox e Sistema Operacional Windows, desenvolvido para o curso "Robot Beginner com Selenium Webdriver" da "QANinja Academy" e com o objetivo de praticar ainda mais testes funcionais automatizados web em Robot Framework, SeleniumLibrary e Python.
 
 
 ---
