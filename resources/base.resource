@@ -26,6 +26,8 @@ Iniciar sessão
         Open Browser    ${URL}    ${BROWSER_CHROME}
     END
 
+    Set Window Size    1280    720
+
 Encerrar sessão
     Capture Page Screenshot
     Close Browser
